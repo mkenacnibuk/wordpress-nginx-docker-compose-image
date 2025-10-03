@@ -1,4 +1,5 @@
-Docker image for [wordpress-nginx-docker-compose](https://github.com/mkenacnibuk/wordpress-nginx-docker-compose)
+Docker image for [wp-docker](https://github.com/mkenacnibuk/wp-docker)
+
 
 ![](https://img.shields.io/docker/pulls/mkenacnibuk/wordpress-nginx-docker-compose-image)
 
